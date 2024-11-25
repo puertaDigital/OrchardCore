@@ -211,4 +211,3 @@ src/Templates/**/content/**/.template.config/
 
 # BenchmarkDotNet artifacts
 BenchmarkDotNet.Artifacts
-/OrchardCore - jp.sln
